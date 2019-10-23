@@ -1,3 +1,4 @@
+import time
 from multiprocessing import Process
 
 fibanacciList = [0, 1]
